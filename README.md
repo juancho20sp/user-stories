@@ -1,4 +1,7 @@
 # Desarrollo de Aplicaciones Web
-## Juan David Murillo
+## NOMBRES_DE_LOS_MIEMBROS
 ### Universidad de La Sabana
 #### 2024 - I
+
+
+**Link de Trello con las historias de usuario:**
